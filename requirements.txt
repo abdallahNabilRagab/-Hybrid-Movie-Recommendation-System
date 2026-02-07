@@ -8,18 +8,19 @@ scipy
 
 # Recommender Systems
 implicit
-faiss-cpu   
+faiss-cpu
 
 # Utilities
 tqdm
 joblib
 
-# Visualization 
+# Visualization
 matplotlib
 seaborn
+altair  # Added for Streamlit charts
 
 # Web / UI
 streamlit
 
-# Text processing (ـ content-based tags)
+# Text processing (content-based tags)
 nltk
